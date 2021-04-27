@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\DALayer\DALayer\bin\Debug\DALayer.dll.config
+C:\Users\Lenovo\source\repos\DALayer\DALayer\bin\Debug\DALayer.dll
+C:\Users\Lenovo\source\repos\DALayer\DALayer\bin\Debug\DALayer.pdb
+C:\Users\Lenovo\source\repos\DALayer\DALayer\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\source\repos\DALayer\DALayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\source\repos\DALayer\DALayer\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\source\repos\DALayer\DALayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\source\repos\DALayer\DALayer\obj\Debug\DALayer.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\DALayer\DALayer\obj\Debug\DALayer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DALayer\DALayer\obj\Debug\DALayer.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\DALayer\DALayer\obj\Debug\DALayer.dll
+C:\Users\Lenovo\source\repos\DALayer\DALayer\obj\Debug\DALayer.pdb
+C:\Users\Lenovo\source\repos\DALayer\DALayer\obj\Debug\DALayer.Migrations.initial.resources
+C:\Users\Lenovo\source\repos\DALayer\DALayer\obj\Debug\DALayer.csproj.GenerateResource.cache
